@@ -1,0 +1,6 @@
+auto-reload yes
+
+external-url-viewer "firefox"
+download-path "~/Downloads/newsboat/"
+browser firefox
+
