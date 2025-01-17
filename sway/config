@@ -188,9 +188,6 @@ include /etc/sway/config.d/*
 default_border pixel 1
 client.focused #506270 #506270 #ffffff #506270
 client.unfocused #3F4749 #3F4749 #ffffff #3F4749
- 
-# startup applications
-exec gentoo-pipewire-launcher
 
 # background
 output * bg ~/Pictures/wp/df-bg.png fill
