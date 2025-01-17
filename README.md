@@ -1,4 +1,4 @@
-These are some dotfiles from my main workstation. It includes homemanager, flake and the normal NixOS configuration file.
+These are some dotfiles for my main workstation. It includes homemanager, flake and the normal NixOS configuration file.
 I use NixOS unstable, with a fallback on stable packages if necessary.
 
 Disclaimer:
