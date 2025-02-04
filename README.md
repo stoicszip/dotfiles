@@ -1,3 +1,5 @@
+# I DON'T USE NIXOS ON MY WORKSTATION ANYMORE
+
 These are some dotfiles for my main workstation. It includes homemanager, flake and the normal NixOS configuration file.
 I use NixOS unstable, with a fallback on stable packages if necessary.
 
